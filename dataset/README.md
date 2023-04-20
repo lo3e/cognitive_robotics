@@ -3,8 +3,8 @@ study:
 
 **EEG signals**
 
-*SEED
-*DEAP
-*IEMOCAP
+- SEED
+- DEAP
+- IEMOCAP
 
-..TO BE UPTADED..
+..to be updated..
