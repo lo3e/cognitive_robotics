@@ -1,0 +1,5 @@
+Per accedere alla memoria interna di Pepper, è possibile utilizzare Choregraphe:
+attraverso l'interfaccia del programma cliccare su "Connection", "Advaced" e "File Transfer", 
+una volta inserita la password per accedere a Pepper (pepperina2023), verrà aperta una finestra dove 
+verrà visualizzata la "root" della memoria di Pepper, vale a dire "/home/nao".
+Attraverso quest'ultima è possibile navigare nella memoria, oltre ad effettuare il download e l'upload di file.
